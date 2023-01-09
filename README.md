@@ -13,3 +13,4 @@ Programs like how to capture a user input calculate sum palindrome factorial etc
 9.Java Program to find the sum of 1+2/2!+3/3!+4/4!++n/n! using a single for loop.(FactorialSeries.java)
 10.Java Program to find sum of n even numbers (functions with no argument and return type.)(sumOfNum.java)
 11.Java Program to Capture two Complex Numbers and Find their Sum(ComplexNumSum.java)
+12.Java Program to Find the Maximum of three numbers using Nested Methods(MaxNumberUsingFunction.java)
